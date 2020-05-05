@@ -1,3 +1,5 @@
+> **Deprecated** : Bluetooth does not seem like a good strategy regarding privacy in any case
+
 Track the germs not the person
 
 A germ has a unique id, can have a timestamp and location.
