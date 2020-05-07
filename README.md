@@ -1,4 +1,4 @@
-> **Deprecated** : Bluetooth does not seem like a good strategy regarding privacy in any case
+> **Deprecated** : this seems like a far better solution, too bad it is not open source https://www.novid.org
 
 Track the germs not the person
 
